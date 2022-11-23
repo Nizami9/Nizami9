@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 💻 Socials:
+### 🌐 Socials:
 
 * [![Linkedin][Linkedin]][Linkedin-url] 
 * [![Instagram][Instagram]][Instagram-url] 
