@@ -2,11 +2,11 @@
 
 ### 💻 Tech Stack:
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Node][Node]][Node-url]
+* [![SQL][SQL]][SQL-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -32,3 +32,5 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [JavaScript]: https://img.shields.io/badge/Express.js-orange?style=for-the-badge&logo=express.js&logoColor=yellow
 [Node]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB
 [Node-url]: http://nodejs.org/
+[SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=white
+[SQL-url]: https://www.mysql.com
