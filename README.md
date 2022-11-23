@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-ABOUT ME:
-[![CodeWare][CodeWare]]
-
-
 ### 💻 Tech Stack:
 
 
+* [![HTML][HTML]][HTML-url]
+* [![CSS][CSS]][CSS-url]
+* [![Javascript][Javascript]][Javascript-url]
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Node][Node]][Node-url]
+* [![Express][Express]][Express-url]
 * [![SQL][SQL]][SQL-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -36,6 +36,6 @@ ABOUT ME:
 [JavaScript]: https://img.shields.io/badge/Express.js-orange?style=for-the-badge&logo=express.js&logoColor=yellow
 [Node]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB
 [Node-url]: http://nodejs.org/
-[SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=white
-[SQL-url]: https://www.mysql.com
-[CodeWare]: https://www.codewars.com/users/Nizami9
+[HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange
+[HTML-url]: https://www.mysql.com
+
