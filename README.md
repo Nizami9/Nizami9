@@ -40,5 +40,5 @@
 [CSS-url]: https://www.mysql.com
 [JavaScript]: https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&logoColor=yellow
 [JavaScript-url]: https://www.javascript.com
-[Express]: https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express&logoColor=20232A
+[Express]: https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB
 [Express-url]: https://www.javascript.com
