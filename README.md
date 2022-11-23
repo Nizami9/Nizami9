@@ -32,11 +32,11 @@
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JavaScript-url]: https://www.javascript.com
-[JavaScript]: https://img.shields.io/badge/Express.js-orange?style=for-the-badge&logo=express.js&logoColor=yellow
 [Node]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB
 [Node-url]: http://nodejs.org/
 [HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange
 [HTML-url]: https://www.mysql.com
 [CSS]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.mysql.com
+[JavaScript]: https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&logoColor=yellow
+[JavaScript-url]: https://www.javascript.com
