@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ABOUT ME:
+[CodeWare]
+
 ### 💻 Tech Stack:
 
 
@@ -34,3 +37,4 @@
 [Node-url]: http://nodejs.org/
 [SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=white
 [SQL-url]: https://www.mysql.com
+[CodeWare]: https://www.codewars.com/users/Nizami9
