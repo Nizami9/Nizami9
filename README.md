@@ -6,7 +6,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![HTML][Next.js]][Next-url]
 * [![CSS][Vue.js]][Vue-url]
-* [![JavaScript][Angular.io]][Angular-url]
+* [![JavaScript][JavaScript]][Angular-url]
 * [![React][React.js]][React-url]
 * [![Node.js][Svelte.dev]][Svelte-url]
 * [![Express.js][Laravel.com]][Laravel-url]
