@@ -7,7 +7,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![React][React.js]][React-url]
+* [![React][JavaScript]][React-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
