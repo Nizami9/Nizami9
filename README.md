@@ -12,6 +12,8 @@
 * [![Express][Express]][Express-url]
 * [![SQL][SQL]][SQL-url]
 * [![POSTGRES][Postgres]][Postgres-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -47,7 +49,5 @@
 [SQL-url]: https://www.javascript.com
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.javascript.com
-[Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[Postgres-url]: https://www.javascript.com
-
-
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.javascript.com
