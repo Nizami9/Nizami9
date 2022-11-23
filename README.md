@@ -38,4 +38,5 @@
 [Node-url]: http://nodejs.org/
 [HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange
 [HTML-url]: https://www.mysql.com
-
+[CSS]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.mysql.com
