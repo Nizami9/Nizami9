@@ -6,7 +6,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Node][Node]]
+* [![Node][Node]][Node-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -31,3 +31,4 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [JavaScript-url]: https://www.javascript.com
 [JavaScript]: https://img.shields.io/badge/Express.js-orange?style=for-the-badge&logo=express.js&logoColor=yellow
 [Node]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB
+[Node-url]: http://nodejs.org/
