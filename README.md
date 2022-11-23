@@ -49,8 +49,8 @@
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.javascript.com
 [Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
-[Instagram-url]: https://www.javascript.com
+[Instagram-url]: https://www.instagram.com/nizami_sov/
 [Facebook]: https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white
-[Facebook-url]: https://www.javascript.com
+[Facebook-url]: [https://www.javascript.com](https://www.facebook.com/nizami9suleymanov)
 [Linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
-[Linkedin-url]: https://www.javascript.com
+[Linkedin-url]: [https://www.javascript.com](https://www.linkedin.com/in/nizamisuleymanov/)
