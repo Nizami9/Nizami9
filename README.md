@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ABOUT ME:
-[CodeWare]
+* [![CodeWare][CodeWare]]
+
 
 ### 💻 Tech Stack:
 
