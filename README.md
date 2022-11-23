@@ -3,15 +3,7 @@
 ### 💻 Tech Stack:
 
 
-* [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url]
-* [![Javascript][Javascript]][Javascript-url]
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Node][Node]][Node-url]
-* [![Express][Express]][Express-url]
-* [![SQL][SQL]][SQL-url]
-* [![POSTGRES][Postgres]][Postgres-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
+* [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Node][Node]][Node-url] [![Express][Express]][Express-url] [![SQL][SQL]][SQL-url] [![POSTGRES][Postgres]][Postgres-url] [![MongoDB][MongoDB]][MongoDB-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
