@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-### Built With
+### 💻 Tech Stack:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![JavaScript][JavaScript]][Angular-url]
 * [![React][React.js]][React-url]
-* [![Node.js][Svelte.dev]][Svelte-url]
-* [![Express.js][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![MongoDB][JQuery.com]][JQuery-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
