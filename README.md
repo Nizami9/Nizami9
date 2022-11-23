@@ -39,11 +39,15 @@
 [HTML-url]: https://www.mysql.com
 [CSS]: https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.mysql.com
-[JavaScript]: https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&logoColor=yellow
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com
 [Express]: https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB
 [Express-url]: https://www.javascript.com
-[SQL]: https://img.shields.io/badge/sql-#00FFFF?style=for-the-badge&logo=mysql&logoColor=yellow
+[SQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [SQL-url]: https://www.javascript.com
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.javascript.com
+[Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Postgres-url]: https://www.javascript.com
+
+
