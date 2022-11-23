@@ -11,6 +11,7 @@
 * [![Node][Node]][Node-url]
 * [![Express][Express]][Express-url]
 * [![SQL][SQL]][SQL-url]
+* [![POSTGRES][Postgres]][Postgres-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -44,3 +45,5 @@
 [Express-url]: https://www.javascript.com
 [SQL]: https://img.shields.io/badge/sql-#00FFFF?style=for-the-badge&logo=mysql&logoColor=yellow
 [SQL-url]: https://www.javascript.com
+[Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Postgres-url]: https://www.javascript.com
