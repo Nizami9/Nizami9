@@ -3,8 +3,7 @@
 ### 💻 Tech Stack:
 
 
-* [![HTML][HTML]][HTML-url]
-* [![CSS][CSS]][CSS-url]
+* [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
