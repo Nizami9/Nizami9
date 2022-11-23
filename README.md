@@ -4,10 +4,10 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![JavaScript][JavaScript]][JavaScript-url]
+* [![JavaScript][JavaScript.js]][JavaScript-url]
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![React][JavaScript]][React-url]
+* [![Node][Node.com]]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -31,3 +31,4 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Bootstrap-url]: https://getbootstrap.com
 [JavaScript-url]: https://www.javascript.com
 [JavaScript]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB
+[Node]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB
