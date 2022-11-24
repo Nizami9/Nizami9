@@ -13,6 +13,11 @@
 [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Node][Node]][Node-url] [![Express][Express]][Express-url] [![SQL][SQL]][SQL-url] [![POSTGRES][Postgres]][Postgres-url] [![MongoDB][MongoDB]][MongoDB-url]
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nizami9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
