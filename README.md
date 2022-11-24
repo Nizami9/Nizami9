@@ -58,4 +58,4 @@
 [Facebook]: https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white
 [Facebook-url]: https://www.facebook.com/nizami9suleymanov
 [Linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
-[Linkedin-url]: https://www.linkedin.com/in/nizamisuleymanov/
+[Linkedin-url]: https://www.linkedin.com/in/nizamisuleymanov/ 
