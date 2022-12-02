@@ -59,4 +59,3 @@
 [Facebook-url]: https://www.facebook.com/nizami9suleymanov
 [Linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/nizamisuleymanov/ 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Nizami9=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
