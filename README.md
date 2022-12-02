@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nizami9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nizami9=anuraghazra&&theme=dark&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- MARKDOWN LINKS & IMAGES -->
