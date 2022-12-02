@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nizami9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nizami9&theme=dark&hide_border=false&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizami9&layout=compact)](https://github.com/Nizami9/github-readme-stats)
-![](https://visitor-badge.laobi.icu/badge?page_id=Nizami9.Nizami9)
+![](https://visitor-badge.laobi.icu/badge?page_id=Nizami9)
 
 
 
