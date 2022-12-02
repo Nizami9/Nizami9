@@ -19,6 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nizami9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nizami9=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -60,3 +61,4 @@
 [Facebook-url]: https://www.facebook.com/nizami9suleymanov
 [Linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/nizamisuleymanov/ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Nizami9=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
