@@ -15,7 +15,9 @@
 
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nizami9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nizami9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
