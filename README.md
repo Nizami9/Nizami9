@@ -12,6 +12,7 @@
 
 [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Node][Node]][Node-url] [![Express][Express]][Express-url] [![SQL][SQL]][SQL-url] [![POSTGRES][Postgres]][Postgres-url] [![MongoDB][MongoDB]][MongoDB-url]  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) [![TypeScript][TypeScript]][TypeScript-url]
+[![Tailwindcss][Tailwindcss]][Tailwindcss-url]
 
 
 # 📊 GitHub Stats:
@@ -62,3 +63,5 @@
 [Facebook-url]: https://www.facebook.com/nizami9suleymanov
 [Linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/nizamisuleymanov/ 
+[Tailwindcss-url]:https://camo.githubusercontent.com/ec8056bddf659d21de39b358d9786e56731cd767117e091348411666a5e7eee6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465
+[Tailwindcss]: https://tailwindcss.com/
