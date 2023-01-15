@@ -62,5 +62,5 @@
 [Facebook-url]: https://www.facebook.com/nizami9suleymanov
 [Linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/nizamisuleymanov/ 
-[Tailwindcss-url]: https://img.shields.io/badge/tailwindcss-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white
-[Tailwindcss]: https://tailwindcss.com/
+[Tailwindcss]: https://img.shields.io/badge/tailwindcss-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwindcss-url]: https://tailwindcss.com/
