@@ -46,6 +46,7 @@
 [CSS-url]: https://www.mysql.com
 [TypeScript]: https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
+[JavaScript]: https://img.shields.io/badge/javascript-grey.svg?style=for-the-badge&logo=javascript&logoColor=yellow
 [Javascript-url]: https://www.javascript.com
 [Express]: https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB
 [Express-url]: https://www.javascript.com 
